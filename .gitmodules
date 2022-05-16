@@ -1,0 +1,9 @@
+[submodule "bin"]
+	path = bin
+	url = https://github.com/WesleyCh3n/analyze.rs
+[submodule "server"]
+	path = server
+	url = https://github.com/WesleyCh3n/analyze.api
+[submodule "web"]
+	path = web
+	url = https://github.com/WesleyCh3n/analyze.web
